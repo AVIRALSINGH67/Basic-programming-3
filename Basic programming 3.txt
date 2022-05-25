@@ -16,4 +16,4 @@ c=input()
 print(ord(c))
 #4..WAP to calculate sum of numbers given in single line input
 r=eval(input())
-print(
+print(r)
